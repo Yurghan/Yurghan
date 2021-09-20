@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Milosz
 - 👀 I’m interested in books (philosophy & fantasy) and traveling.
 - 🌱 I’m currently learning HTML, CSS, JS, WordPress
-- 💞️ I’m looking to collaborate <right now I prefer solo>
 - 📫 How to reach me: if you like you can text me by e-mail: topolewski123321@wp.pl
 
 <!---
