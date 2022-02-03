@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Milosz
 - 👀 I’m interested in books (philosophy & fantasy) and traveling.
-- 🌱 I’m currently learning HTML, CSS, JS, WordPress
+- 🌱 I’m currently learning HTML, CSS, JS, WordPress and Vue
 - 📫 How to reach me: if you like you can text me by e-mail: milosz@webmilo.com
 
 <!---
